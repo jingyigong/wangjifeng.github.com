@@ -1,0 +1,29 @@
+# Site settings
+title:          Forget
+description:    "Forget for get, gisany gis any."
+url:            "https://jingyigong.github.io"
+baseurl:        ""
+
+# Author
+author:
+  name:         mt.king
+  url:          https://jingyigong.github.io
+  email:        mtdotking@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
