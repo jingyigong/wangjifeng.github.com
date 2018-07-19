@@ -2,7 +2,7 @@
 title:          Forget
 description:    "Forget for get, gisany gis any."
 url:            "https://jingyigong.github.io"
-baseurl:        "wangjifeng.github.io"
+baseurl:        "/wangjifeng.github.io"
 
 # Author
 author:
